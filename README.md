@@ -14,6 +14,18 @@ Wave is a 2D survival game developed in Java using the Processing framework. The
 
 ---
 
+## Screenshots
+
+Here are some screenshots showcasing the game:
+
+![Menu game](images/menu.png)
+
+![Single-player gameplay](images/single-player.png)
+
+![Co-op gameplay](images/co-op.png)
+
+---
+
 ## Installation and Setup
 
 To run the game locally:
